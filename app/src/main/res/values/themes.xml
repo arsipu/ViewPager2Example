@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ViewPager2Example" parent="Theme.MaterialComponents.Light" />
+
+    <style name="Theme.ViewPager2Example.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ViewPager2Example.AppBarOverlay" parent="ThemeOverlay.Material3.Dark.ActionBar" />
+
+    <style name="Theme.ViewPager2Example.PopupOverlay" parent="ThemeOverlay.Material3.Light" />
+</resources>
